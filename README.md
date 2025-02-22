@@ -20,32 +20,11 @@ Welcome to the Library Management System! This project is designed to help libra
 - **Swing**: GUI framework for building the user interface.
 - **JUnit**: Testing framework to ensure code quality.
 
-## 📂 Project Structure
 
-```plaintext
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   ├── com
-│   │   │   │   ├── library
-│   │   │   │   │   ├── model
-│   │   │   │   │   ├── service
-│   │   │   │   │   ├── controller
-│   │   │   │   │   └── view
-│   │   └── resources
-│   └── test
-│       ├── java
-│       └── resources
-└── README.md
-```
 
 ## 📸 Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-*Screenshot of the dashboard.*
-
-![Book Management](screenshots/book_management.png)
-*Screenshot of the book management interface.*
+![Main Interface](output.png)
 
 ## 📝 Setup Instructions
 
